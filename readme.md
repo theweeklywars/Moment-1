@@ -2,7 +2,7 @@
 
 ## Mitt första **GitHub** projekt!
 
-1. Lyckades att uppdatera local repo genom att hämta från remote
-2. Skapade en text.md-fil
+1. Jag klonade projektet från remote till min dator med hjälp av "Git pull"-kommandot
+2. Jag kapade en readme.md-fil
 3. Projektet innehåller en enkel HTML-sida
-4. Jag lyckades också med att uppdatera projektet från min lokala dator
+4. Jag uppdaterade projektet från min lokala dator genom att använda "Git add"-, "Git commit"- och "Git push"-kommandon.
