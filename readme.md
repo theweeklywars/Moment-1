@@ -8,4 +8,4 @@
 4. Jag uppdaterade projektet från min lokala dator genom att använda "Git add"-, "Git commit"- och "Git push"-kommandon.
 
 * Använd detta kommando i Git eller terminalen för att klona projektet till en lokal dator:
-* "git clone https://github.com/theweeklywars/Moment-1.git"
+"git clone https://github.com/theweeklywars/Moment-1.git"
